@@ -1,0 +1,11 @@
+path: C:/YOLO_DATASET
+
+train: images
+val: images
+
+names:
+  0: firewall
+  1: hub
+  2: router
+  3: server
+  4: switch
